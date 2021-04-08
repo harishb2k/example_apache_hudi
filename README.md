@@ -1,4 +1,4 @@
-This is a example of Apache Hudi. Here we inserted lot of user records.
+This is a example of Apache Hudi. Here we inserted user records. You can see all the records using spark-shell or any other way. Main purpose of this demo to see if update to a row works or not. 
 
 ## Build
 
