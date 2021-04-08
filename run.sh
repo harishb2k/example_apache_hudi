@@ -1,0 +1,2 @@
+export HADOOP_CONF_DIR=/usr/local/Cellar/hadoop/3.3.0/libexec/etc/hadoop
+spark-submit --class org.example.App --deploy-mode cluster --master yarn ./target/example_apache_hudi-1.0-SNAPSHOT-jar-with-dependencies.jar
